@@ -54,7 +54,7 @@ Steps to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/race-car-game.git
+git clone https://github.com/MuhammadAwaisRafique/Design-and-Implement-a-Race-Car-Game-using-Dikstra-Algorithm.git
 
 Navigate to the project folder:
 
