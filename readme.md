@@ -71,5 +71,4 @@ Run the executable:
 🤝 Contributors
 
 Muhammad Awais Rafique (Myself)
-Khawar Mohi (Github link: )
 
